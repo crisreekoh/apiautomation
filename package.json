@@ -1,0 +1,14 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "API testing automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cris Dapitanon",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
